@@ -1,0 +1,24 @@
+td, th {
+    vertical-align: middle !important;
+    text-align: center;
+}
+tr:hover{
+    background-color: #EEEEEE;
+}
+
+.input-group {
+    margin: 24px 0;
+}
+
+svg{
+    height: 150px;
+}
+td:first-of-type, td:first-of-type>div{
+    height: 200px;
+    width: 250px;
+}
+.container h1{
+    color: #20893D;
+    text-align: center;
+    margin: 24px 0;
+}
